@@ -1,0 +1,13 @@
+/*  This applies to only the body of the webpage */
+body {
+    margin: 25px;
+    background-color:rgb(255, 235, 205);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 14px;
+}
+/* for <h1>....</h1> styling */
+h1 {
+    font-size: 35px;
+    font-weight: normal;
+    margin-top: 5px;
+}
