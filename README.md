@@ -5,7 +5,7 @@ This is a passion project that I had in mind, and while there is already a Keepa
 - [ ] adding a functional upload page where you can import passwords into the keypass database
 - [ ] view uploaded passwords as well as copy from it
 - [ ] create password generator (which can generate alphanumeric text with symbols or memorable passwords)
-- [ ] containerize the server
+- [ ] containerize the self-hosted server.
 
 ## Disclaimer 
 This is a WIP, and it should not reflect the final product. 
