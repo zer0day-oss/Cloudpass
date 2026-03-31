@@ -9,3 +9,4 @@ This is a passion project that I had in mind, and while there is already a Keepa
 
 ## Disclaimer 
 This is a WIP, and it should not reflect the final product. 
+Also, I'll only occasionally work on it due to being busy. 
